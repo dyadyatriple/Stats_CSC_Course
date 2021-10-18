@@ -1,2 +1,2 @@
-# Stats_CSC_Course
- Statisctics
+# Mathematical statistics course from Computer Science Centre
+
